@@ -1,13 +1,12 @@
-# Analysis of GDP data across the globe
+# Global GDP data analysis
 
-About Data used:- The data set contains data from more than 200 countries.
-Objective:- The goal is to identify factors influencing the GDP growth of a country.
+The data set comprises information from over 200 countries.
+The goal is to uncover elements that influence a country's GDP growth.
 
-Total no of Files:- 3
+There are three files in total.
 
-1. Processed solution:- contains data processing and makes it presentable.
-2. The Insights:- contains presentation file, Providing insights on the data.
-3. Final analysis:- contains data in visual form using Graphical methods like histogram, scatter plot, and correlation.
+1. Processed solution: includes data processing as well as presentation.
+2. The Insights: a presentation including data insights.
+3. Final analysis: includes data visualisations such as histograms, scatter plots, and correlations coefficient.
 
- 
-Limitations and future improvements:- Handling of outliers.
+Limitations and future improvements:- Outlier handling. 
